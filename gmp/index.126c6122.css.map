@@ -1,1 +1,0 @@
-{"mappings":"ACAA,qBAGA","sources":["index.126c6122.css","index.css"],"sourcesContent":[":root {\n  --primary: #055;\n}\n\n* {\n  -webkit-user-select: none;\n  user-select: none;\n}\n\n/*# sourceMappingURL=index.126c6122.css.map */\n",":root {\n  --primary: #005555ff;\n}\n* {\n  user-select: none;\n}\n"],"names":[],"version":3,"file":"index.126c6122.css.map"}
