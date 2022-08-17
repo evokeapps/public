@@ -1,6 +1,12 @@
 [
   {
-    "name":"2019",
-    "url":""
+    "name": "ශිෂ්‍යත්ව විභාගය 2021",
+    "url": "2021.json",
+    "img": "https://images.pexels.com/photos/1337387/pexels-photo-1337387.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "name": "ශිෂ්‍යත්ව විභාගය 2019",
+    "url": "2019.json",
+    "img": "https://images.pexels.com/photos/1449934/pexels-photo-1449934.jpeg?auto=compress&cs=tinysrgb&w=600"
   }
 ]
