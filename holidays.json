@@ -31,6 +31,22 @@
       "desc_si": "දුරුතු පුර පසළොස්වක පෝය දිනය",
       "desc_ta": "",
       "type": "B,P,PD"
+    },
+    {
+      "id": "240",
+      "date": "15-01-2023",
+      "desc_en": "Tamil Thai Pongal Day",
+      "desc_si": "දෙමළ තෛපොංගල් දිනය",
+      "desc_ta": "",
+      "type": "B,P,M"
+    },
+    {
+      "id": "241",
+      "date": "06-01-2023",
+      "desc_en": "Duruthu Full Moon Poya Day",
+      "desc_si": "දුරුතු පුර පසළොස්වක පෝය දිනය",
+      "desc_ta": "",
+      "type": "B,P,PD"
     }
   ],
   [
@@ -61,6 +77,22 @@
     {
       "id": "143",
       "date": "16-02-2022",
+      "desc_en": "Nawam Full Moon Poya Day",
+      "desc_si": "නවම් පුර පසළොස්වක පෝය දිනය",
+      "desc_ta": "",
+      "type": "B,P,PD"
+    },
+    {
+      "id": "242",
+      "date": "04-02-2023",
+      "desc_en": "National Day",
+      "desc_si": "ජාතික නිදහස් දිනය",
+      "desc_ta": "",
+      "type": "B,P,M"
+    },
+    {
+      "id": "243",
+      "date": "18-02-2023",
       "desc_en": "Nawam Full Moon Poya Day",
       "desc_si": "නවම් පුර පසළොස්වක පෝය දිනය",
       "desc_ta": "",
