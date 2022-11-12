@@ -92,11 +92,19 @@
     },
     {
       "id": "243",
-      "date": "18-02-2023",
+      "date": "05-02-2023",
       "desc_en": "Nawam Full Moon Poya Day",
       "desc_si": "නවම් පුර පසළොස්වක පෝය දිනය",
       "desc_ta": "",
       "type": "B,P,PD"
+    },
+    {
+      "id": "219",
+      "date": "18-02-2023",
+      "desc_en": "Mahasivarathri Day",
+      "desc_si": "මහා ශිව රාත්‍රී දිනය",
+      "desc_ta": "",
+      "type": "B,P"
     }
   ],
   [
@@ -131,12 +139,28 @@
       "desc_si": "මැදින් පුර පසලොස්වක පෝය දිනය",
       "desc_ta": "",
       "type": "B,P,PD"
+    },
+    {
+      "id": "345",
+      "date": "07-03-2023",
+      "desc_en": "Medin Full Moon Poya Day",
+      "desc_si": "මැදින් පුර පසලොස්වක පෝය දිනය",
+      "desc_ta": "",
+      "type": "B,P,PD"
     }
   ],
   [
     {
       "id": "121",
       "date": "02-04-2021",
+      "desc_en": "Good Friday",
+      "desc_si": "මහ සිකුරාදා දිනය",
+      "desc_ta": "",
+      "type": "B,P"
+    },
+    {
+      "id": "221",
+      "date": "07-04-2023",
       "desc_en": "Good Friday",
       "desc_si": "මහ සිකුරාදා දිනය",
       "desc_ta": "",
@@ -151,6 +175,14 @@
       "type": "B,P,M"
     },
     {
+      "id": "222",
+      "date": "13-04-2023",
+      "desc_en": "Day prior to Sinhala and Tamil New Year Day",
+      "desc_si": "සිංහල හා දෙමළ අලුත් අවුරුදු දිනට පෙර දිනය",
+      "desc_ta": "",
+      "type": "B,P,M"
+    },
+    {
       "id": "123",
       "date": "14-04-2021",
       "desc_en": "Sinhala and Tamil New Year Day",
@@ -159,8 +191,24 @@
       "type": "B,P,M"
     },
     {
+      "id": "223",
+      "date": "14-04-2023",
+      "desc_en": "Sinhala and Tamil New Year Day",
+      "desc_si": "සිංහල හා දෙමළ අලුත් අවුරුදු දිනය",
+      "desc_ta": "",
+      "type": "B,P,M"
+    },
+    {
       "id": "124",
       "date": "26-04-2021",
+      "desc_en": "Bak Full Moon Poya Day",
+      "desc_si": "බක් පුර පසළොස්වක පෝය දිනය",
+      "desc_ta": "",
+      "type": "B,P,M,PD"
+    },
+    {
+      "id": "124",
+      "date": "05-04-2023",
       "desc_en": "Bak Full Moon Poya Day",
       "desc_si": "බක් පුර පසළොස්වක පෝය දිනය",
       "desc_ta": "",
@@ -197,6 +245,15 @@
       "desc_si": "බක් පුර ‍පසළොස්වක පෝය දිනය",
       "desc_ta": "",
       "type": "B,P,PD"
+    },
+
+    {
+      "id": "226",
+      "date": "22-04-2023",
+      "desc_en": "Id-Ul-Fitr (Ramazan Festival Day)",
+      "desc_si": "ඊද්-උල්-ෆීතර් (රාමසාන් දිනය)",
+      "desc_ta": "",
+      "type": "B,P"
     }
   ],
   [
