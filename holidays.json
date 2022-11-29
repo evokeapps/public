@@ -33,20 +33,20 @@
       "type": "B,P,PD"
     },
     {
-      "id": "240",
-      "date": "15-01-2023",
-      "desc_en": "Tamil Thai Pongal Day",
-      "desc_si": "දෙමළ තෛපොංගල් දිනය",
-      "desc_ta": "",
-      "type": "B,P,M"
-    },
-    {
       "id": "241",
       "date": "06-01-2023",
       "desc_en": "Duruthu Full Moon Poya Day",
       "desc_si": "දුරුතු පුර පසළොස්වක පෝය දිනය",
       "desc_ta": "",
       "type": "B,P,PD"
+    },
+    {
+      "id": "240",
+      "date": "15-01-2023",
+      "desc_en": "Tamil Thai Pongal Day",
+      "desc_si": "දෙමළ තෛපොංගල් දිනය",
+      "desc_ta": "",
+      "type": "B,P,M"
     }
   ],
   [
@@ -159,6 +159,14 @@
       "type": "B,P"
     },
     {
+      "id": "224",
+      "date": "05-04-2023",
+      "desc_en": "Bak Full Moon Poya Day",
+      "desc_si": "බක් පුර පසළොස්වක පෝය දිනය",
+      "desc_ta": "",
+      "type": "B,P,M,PD"
+    },
+    {
       "id": "221",
       "date": "07-04-2023",
       "desc_en": "Good Friday",
@@ -206,14 +214,7 @@
       "desc_ta": "",
       "type": "B,P,M,PD"
     },
-    {
-      "id": "124",
-      "date": "05-04-2023",
-      "desc_en": "Bak Full Moon Poya Day",
-      "desc_si": "බක් පුර පසළොස්වක පෝය දිනය",
-      "desc_ta": "",
-      "type": "B,P,M,PD"
-    },
+    
     {
       "id": "146",
       "date": "13-04-2022",
@@ -381,7 +382,7 @@
     },
     {
       "id": "230",
-      "date": "29-06-2021",
+      "date": "29-06-2023",
       "desc_en": "Id-Ul-Alha (Hadji Festival Day)",
       "desc_si": "ඊද්-උල්-අල්හා (හජ්ජි උත්සව දිනය)",
       "desc_ta": "",
