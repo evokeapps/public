@@ -328,6 +328,30 @@
       "desc_si": "වෙසක් පුර පසළොස්වක පෝය දිනයට පසු දිනය",
       "desc_ta": "",
       "type": "B,P,M"
+    },
+    {
+      "id": "225",
+      "date": "01-05-2023",
+      "desc_en": "May Day",
+      "desc_si": "ලෝක කම්කරු දිනය",
+      "desc_ta": "",
+      "type": "B,P,M"
+    },
+    {
+      "id": "253",
+      "date": "05-05-2023",
+      "desc_en": "Vesak Full Moon Poya Day",
+      "desc_si": "වෙසක් පුර පසළොස්වක පෝය දිනය",
+      "desc_ta": "",
+      "type": "B,P,PD"
+    },
+    {
+      "id": "254",
+      "date": "06-05-2023",
+      "desc_en": "Day following Vesak Full Moon Poya Day",
+      "desc_si": "වෙසක් පුර පසළොස්වක පෝය දිනයට පසු දිනය",
+      "desc_ta": "",
+      "type": "B,P,M"
     }
   ],
   [
@@ -346,6 +370,22 @@
       "desc_si": "පොසොන් පුර පසළොස්වක පෝය දිනය",
       "desc_ta": "",
       "type": "B,P,PD"
+    },
+    {
+      "id": "255",
+      "date": "03-06-2023",
+      "desc_en": "Poson Full Moon Poya Day",
+      "desc_si": "පොසොන් පුර පසළොස්වක පෝය දිනය",
+      "desc_ta": "",
+      "type": "B,P,PD"
+    },
+    {
+      "id": "230",
+      "date": "29-06-2021",
+      "desc_en": "Id-Ul-Alha (Hadji Festival Day)",
+      "desc_si": "ඊද්-උල්-අල්හා (හජ්ජි උත්සව දිනය)",
+      "desc_ta": "",
+      "type": "B,P"
     }
   ],
   [
@@ -380,6 +420,14 @@
       "desc_si": "ඇසළ පුර පසළොස්වක පෝය දිනය",
       "desc_ta": "",
       "type": "B,P,PD"
+    },
+    {
+      "id": "257",
+      "date": "03-07-2022",
+      "desc_en": "Esala Full Moon Poya Day",
+      "desc_si": "ඇසළ පුර පසළොස්වක පෝය දිනය",
+      "desc_ta": "",
+      "type": "B,P,PD"
     }
   ],
   [
@@ -396,6 +444,22 @@
       "date": "11-08-2022",
       "desc_en": "Nikini Full Moon Poya Day",
       "desc_si": "නිකිණි පුර ‍පසළොස්වක පෝය දිනය",
+      "desc_ta": "",
+      "type": "B,P,PD"
+    },
+    {
+      "id": "258",
+      "date": "01-08-2023",
+      "desc_en": "Nikini Full Moon Poya Day",
+      "desc_si": "නිකිණි පුර ‍පසළොස්වක පෝය දිනය",
+      "desc_ta": "",
+      "type": "B,P,PD"
+    },
+    {
+      "id": "259",
+      "date": "30-08-2023",
+      "desc_en": "Adhi Nikini Full Moon Poya Day",
+      "desc_si": "අධි නිකිණි පුර ‍පසළොස්වක පෝය දිනය",
       "desc_ta": "",
       "type": "B,P,PD"
     }
@@ -416,6 +480,22 @@
       "desc_si": "බිනර පුර පසළොස්වක පෝය දිනය",
       "desc_ta": "",
       "type": "B,P,PD"
+    },
+    {
+      "id": "259",
+      "date": "28-09-2023",
+      "desc_en": "Binara Full Moon Poya Day",
+      "desc_si": "බිනර පුර පසළොස්වක පෝය දිනය",
+      "desc_ta": "",
+      "type": "B,P,PD"
+    },
+    {
+      "id": "234",
+      "date": "28-10-2023",
+      "desc_en": "Milad-Un-Nabi (Holy Prophet s Birthday)",
+      "desc_si": "මිලාද්-උන්-නබී (නබි නායකතුමාගේ ජන්ම දිනය)",
+      "desc_ta": "",
+      "type": "B,P,M"
     }
   ],
   [
@@ -452,6 +532,14 @@
       "type": "B,P,PD"
     },
     {
+      "id": "261",
+      "date": "28-10-2023",
+      "desc_en": "Vap Full Moon Poya Day",
+      "desc_si": "වප් පුර පසළොස්වක පෝය දිනය",
+      "desc_ta": "",
+      "type": "B,P,PD"
+    },
+    {
       "id": "162",
       "date": "10-10-2022",
       "desc_en": "Additional Bank Holiday",
@@ -478,6 +566,14 @@
       "type": "B,P"
     },
     {
+      "id": "236",
+      "date": "12-11-2023",
+      "desc_en": "Deepavali Festival Day",
+      "desc_si": "දීපවාලී උත්සව දිනය",
+      "desc_ta": "",
+      "type": "B,P"
+    },
+    {
       "id": "137",
       "date": "18-11-2021",
       "desc_en": "Ill Full Moon Poya Day",
@@ -488,6 +584,14 @@
     {
       "id": "164",
       "date": "07-11-2022",
+      "desc_en": "Il Full Moon Poya Day",
+      "desc_si": "ඉල් පුර පසළොස්වක පෝය දිනය",
+      "desc_ta": "",
+      "type": "B,P,PD"
+    },
+    {
+      "id": "264",
+      "date": "26-11-2023",
       "desc_en": "Il Full Moon Poya Day",
       "desc_si": "ඉල් පුර පසළොස්වක පෝය දිනය",
       "desc_ta": "",
@@ -520,8 +624,24 @@
       "type": "B,P,PD"
     },
     {
+      "id": "265",
+      "date": "26-12-2023",
+      "desc_en": "Unduvap Full Moon Poya Day",
+      "desc_si": "උඳුවප් පුර පසළොස්වක පෝය දිනය",
+      "desc_ta": "",
+      "type": "B,P,PD"
+    },
+    {
       "id": "166",
       "date": "25-12-2022",
+      "desc_en": "Christmas Day",
+      "desc_si": "නත්තල් දිනය",
+      "desc_ta": "",
+      "type": "B,P,M"
+    },
+    {
+      "id": "266",
+      "date": "25-12-2023",
       "desc_en": "Christmas Day",
       "desc_si": "නත්තල් දිනය",
       "desc_ta": "",
