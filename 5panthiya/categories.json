@@ -1,31 +1,45 @@
 [
   {
-    "name": "ශිෂ්‍යත්ව විභාගය 2021",
+    "name_si": "ශිෂ්‍යත්ව විභාගය 2021",
+    "name_en": "Scholarship Exam 2021",
     "url": "2021.json",
     "img": "https://images.pexels.com/photos/1337387/pexels-photo-1337387.jpeg?auto=compress&cs=tinysrgb&w=600"
   },
   {
-    "name": "ශිෂ්‍යත්ව විභාගය 2019",
+    "name": "ශිෂ්‍යත්ව විභාගය 2019","name_si": "ශිෂ්‍යත්ව විභාගය 2019",
+    "name_en": "Scholarship Exam 2019",
     "url": "2019.json",
     "img": "https://images.pexels.com/photos/1449934/pexels-photo-1449934.jpeg?auto=compress&cs=tinysrgb&w=600"
   },
   {
     "name": "ශිෂ්‍යත්ව විභාගය 2018",
+    "name_si": "ශිෂ්‍යත්ව විභාගය 2018",
+    
+    "name_en": "Scholarship Exam 2018",
     "url": "2018.json",
     "img": "https://images.pexels.com/photos/296308/pexels-photo-296308.jpeg?auto=compress&cs=tinysrgb&w=600"
   },
   {
     "name": "ශිෂ්‍යත්ව විභාගය 2017",
+    "name_si": "ශිෂ්‍යත්ව විභාගය 2017",
+    
+    "name_en": "Scholarship Exam 2017",
     "url": "2017.json",
     "img": "https://images.pexels.com/photos/1174932/pexels-photo-1174932.jpeg?auto=compress&cs=tinysrgb&w=600"
   },
   {
     "name": "ශිෂ්‍යත්ව විභාගය 2016",
+    "name_si": "ශිෂ්‍යත්ව විභාගය 2016",
+    
+    "name_en": "Scholarship Exam 2016",
     "url": "2016.json",
     "img": "https://images.pexels.com/photos/61129/pexels-photo-61129.jpeg?auto=compress&cs=tinysrgb&w=600"
   },
   {
     "name": "ආදර්ශ ප්‍රශ්නපත්‍ර 01",
+    "name_si": "ආදර්ශ ප්‍රශ්නපත්‍ර 01",
+    
+    "name_en": "Model Paper 01",
     "url": "1000.json",
     "img": "https://images.pexels.com/photos/12118816/pexels-photo-12118816.jpeg?auto=compress&cs=tinysrgb&w=600"
   }
